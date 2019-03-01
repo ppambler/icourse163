@@ -1,4 +1,4 @@
-# icourse163
+# [icourse163](https://github.com/ppambler/icourse163)
 
 ## ★资源
 
@@ -8,6 +8,14 @@
 > 2. sophomore （大二）
 > 3. junior （大三）
 > 4. senior（大四）
+
+## ★FAQ
+
+1. 由于是把md文件搞成是HTML的，所以你的md文件不要出现问号等什么的
+2. 目录名可以有顿号之类的符号
+3. 关于md文件的标签问题，标签书写语法 `tag: [#xxx, #yyy]`
+
+**➹：**[URL命名规则 - 简书](https://www.jianshu.com/p/876d4cbd84f9)
 
 ## ★大一课程
 
